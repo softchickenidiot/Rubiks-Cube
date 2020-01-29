@@ -1,0 +1,4 @@
+﻿  Rubik's Cube.cpp
+C:\Users\peyto\source\repos\Rubik's Cube\Rubik's Cube\Rubik's Cube.cpp(115,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\peyto\source\repos\Rubik's Cube\Rubik's Cube\Rubik's Cube.cpp(250,34): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Rubik's Cube.vcxproj -> C:\Users\peyto\source\repos\Rubik's Cube\x64\Debug\Rubik's Cube.exe
